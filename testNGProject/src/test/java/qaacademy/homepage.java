@@ -25,6 +25,7 @@ public class homepage extends base{
 		System.out.println(se.radio2().getText());
 		se.radio3().click();
 		System.out.println(se.radio3().getText());
+		System.out.println("im added");
 		
 		
 	}
